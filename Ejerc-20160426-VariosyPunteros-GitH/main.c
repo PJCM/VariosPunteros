@@ -626,7 +626,7 @@ int datos_18(int x, float y, char c)
     return x;
 }
 
-// función 19
+// función 19 //
 
 void VariosPunteros_19()
 {
