@@ -618,13 +618,15 @@ void VariosPunteros_18()
 int datos_18(int x, float y, char c)
 {
     printf("%d %f %c", x, y, c);
-    
+
     x = 8;
     y = 4.2;
     c = 'g';
-    
+
     return x;
 }
+
+// función 19
 
 void VariosPunteros_19()
 {
